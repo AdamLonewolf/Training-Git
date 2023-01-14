@@ -1,6 +1,6 @@
 # ressources_cours_git
 
-##Titre niveau 2
+## Titre niveau 2
 
 +1
 +2
